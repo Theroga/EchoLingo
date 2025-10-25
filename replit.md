@@ -4,8 +4,6 @@
 
 A Python-based application that provides a complete pipeline for translating and re-dubbing audio files in different languages. The app transcribes speech, translates it, and generates natural-sounding voice synthesis using AI.
 
-**Created**: October 24, 2025
-**Status**: Active Development
 
 ## Purpose
 
