@@ -16,9 +16,9 @@ Enable users to:
 
 ## Recent Changes
 
-### October 24, 2025 - Initial Implementation
+Initial Implementation
 - ✅ Set up Python 3.11 environment
-- ✅ Integrated OpenAI API for Whisper transcription
+- ✅ Integrated OpenAI API for Whisper transcription// changed to google cloud to speech text.
 - ✅ Integrated ElevenLabs API for voice synthesis
 - ✅ Implemented Google Translate via deep-translator (compatible alternative to googletrans)
 - ✅ Created modular AudioTranslator class with complete pipeline
@@ -233,9 +233,9 @@ result = translator.audio_translate_pipeline(
 
 ## Maintenance Log
 
-| Date | Change | Reason |
-|------|--------|--------|
-| Oct 24, 2025 | Initial setup | Project creation |
-| Oct 24, 2025 | Chose deep-translator | Dependency compatibility |
-| Oct 24, 2025 | Chose playsound3 | Build compatibility |
-| Oct 24, 2025 | Added ffmpeg | Audio processing support |
+Reason |
+--------|
+Initial setup | Project creation |
+Chose deep-translator | Dependency compatibility |
+Chose playsound3 | Build compatibility |
+Added ffmpeg | Audio processing support |
